@@ -1,0 +1,6 @@
+framework module Pods_DETRInferenceApp {
+  umbrella header "Pods-DETRInferenceApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
