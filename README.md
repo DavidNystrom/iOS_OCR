@@ -80,11 +80,10 @@ How It Works:
 
 RL Examples:
 ------------
-![App Screenshot](images/DETR_TrOCR_1.png)
-![App Screenshot](images/DETR_TrOCR_2.png)
-![App Screenshot](images/DETR_TrOCR_3.png)
-![App Screenshot](images/DETR_TrOCR_4.png)
-
+<img src="images/DETR_TrOCR_1.png" alt="Screenshot" width="400" />
+<img src="images/DETR_TrOCR_2.png" alt="Screenshot" width="400" />
+<img src="images/DETR_TrOCR_3.png" alt="Screenshot" width="400" />
+<img src="images/DETR_TrOCR_4.png" alt="Screenshot" width="400" />
 
 Troubleshooting:
 ----------------
